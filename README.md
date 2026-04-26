@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AKASHCY046/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AKASHCY046/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/akash-v-i/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/AKASHCY046/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AKASHCY046/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AKASHCY046/LeetCode/tree/master/0069-sqrtx) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AKASHCY046/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/akash-v-i/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/AKASHCY046/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -646,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/akash-v-i/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/akash-v-i/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
