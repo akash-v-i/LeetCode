@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKASHCY046/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AKASHCY046/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akash-v-i/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0204-count-primes](https://github.com/akash-v-i/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AKASHCY046/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0229-majority-element-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AKASHCY046/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKASHCY046/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AKASHCY046/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/akash-v-i/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/AKASHCY046/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AKASHCY046/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AKASHCY046/LeetCode/tree/master/0263-ugly-number) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/akash-v-i/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/AKASHCY046/LeetCode/tree/master/0258-add-digits) |
 | [2722-prime-in-diagonal](https://github.com/AKASHCY046/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Divide and Conquer
@@ -664,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/akash-v-i/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/akash-v-i/LeetCode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
