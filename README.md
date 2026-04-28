@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AKASHCY046/LeetCode/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/akash-v-i/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AKASHCY046/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/AKASHCY046/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/AKASHCY046/LeetCode/tree/master/0394-decode-string) |
+| [0433-minimum-genetic-mutation](https://github.com/akash-v-i/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0482-license-key-formatting](https://github.com/AKASHCY046/LeetCode/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/AKASHCY046/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AKASHCY046/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/akash-v-i/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/AKASHCY046/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
