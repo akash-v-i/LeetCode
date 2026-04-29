@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/akash-v-i/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AKASHCY046/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/akash-v-i/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AKASHCY046/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AKASHCY046/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Interactive
@@ -693,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/akash-v-i/LeetCode/tree/main/0204-count-primes/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/akash-v-i/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
