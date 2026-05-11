@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AKASHCY046/LeetCode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akash-v-i/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AKASHCY046/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AKASHCY046/LeetCode/tree/master/0326-power-of-three) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AKASHCY046/LeetCode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akash-v-i/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/akash-v-i/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akash-v-i/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
