@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2540-minimum-common-value](https://github.com/akash-v-i/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/akash-v-i/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2722-prime-in-diagonal](https://github.com/AKASHCY046/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AKASHCY046/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AKASHCY046/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2540-minimum-common-value](https://github.com/akash-v-i/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AKASHCY046/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AKASHCY046/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/AKASHCY046/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AKASHCY046/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/akash-v-i/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AKASHCY046/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0981-time-based-key-value-store](https://github.com/akash-v-i/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/akash-v-i/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
