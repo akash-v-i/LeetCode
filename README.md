@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/AKASHCY046/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash-v-i/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/AKASHCY046/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2126-destroying-asteroids](https://github.com/akash-v-i/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash-v-i/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/akash-v-i/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/AKASHCY046/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AKASHCY046/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AKASHCY046/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/AKASHCY046/LeetCode/tree/master/1448-maximum-69-number) |
 | [1975-maximum-matrix-sum](https://github.com/AKASHCY046/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2126-destroying-asteroids](https://github.com/akash-v-i/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/AKASHCY046/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
