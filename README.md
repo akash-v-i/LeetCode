@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/akash-v-i/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/akash-v-i/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/AKASHCY046/LeetCode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/akash-v-i/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/akash-v-i/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/AKASHCY046/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Trie
