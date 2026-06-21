@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AKASHCY046/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/akash-v-i/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/akash-v-i/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AKASHCY046/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/AKASHCY046/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/akash-v-i/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/akash-v-i/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/akash-v-i/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AKASHCY046/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akash-v-i/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/AKASHCY046/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/akash-v-i/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0494-target-sum](https://github.com/akash-v-i/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0800-letter-case-permutation](https://github.com/AKASHCY046/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Memoization
 | Problem Name | Difficulty |
