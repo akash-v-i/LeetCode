@@ -1,22 +1,23 @@
 class Solution {
-    public boolean canPartition(int[] arr) {
+    public boolean canPartition(int[] nums) {
         int sum=0;
-        for(int x:arr){
-            sum+=x;
+        for(int a:nums){
+            sum+=a;
         }
-
         if(sum%2==1) return false;
-        Boolean dp[][]=new Boolean[arr.length][sum/2 +1];
-        return find(arr,0,sum/2,dp);
-    }
 
-    public boolean find(int arr[],int index,int sum,Boolean dp[][]){
-        if(sum==0) return true;
-        
-        if(index==arr.length || sum<0) return false;
+        Boolean dp[][]=new Boolean[nums.length][sum/2 +1];
+        return find(nums,sum/2,0,0,nums.length,dp);
+    }
+    public boolean find(int nums[],int x,int index,int sum,int n,Boolean dp[][]){
+
+        if(sum==x) return true;
+
+        if(index>=n || sum>x) return false;
 
         if(dp[index][sum]!=null) return dp[index][sum];
-        dp[index][sum]=find(arr,index+1,sum-arr[index],dp)||find(arr,index+1,sum,dp);
+
+        dp[index][sum]=find(nums,x,index+1,sum+nums[index],n,dp) || find(nums,x,index+1,sum,n,dp);
         return dp[index][sum];
     }
 }
