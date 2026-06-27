@@ -23,10 +23,8 @@ class Solution {
             if(x==0){
                 return b.substring(0,y);
             }
-            if(y==0){
-                return a.substring(0,x);
-            }
-            return "";
+            return a.substring(0,x);
+            
         }
 
         if(a.charAt(x-1)==b.charAt(y-1)){
