@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/akash-v-i/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akash-v-i/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/AKASHCY046/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0953-reverse-only-letters](https://github.com/AKASHCY046/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/akash-v-i/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/akash-v-i/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/akash-v-i/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akash-v-i/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AKASHCY046/LeetCode/tree/master/1137-n-th-tribonacci-number) |
