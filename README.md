@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AKASHCY046/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AKASHCY046/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/AKASHCY046/LeetCode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/akash-v-i/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/akash-v-i/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/akash-v-i/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akash-v-i/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/akash-v-i/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0115-distinct-subsequences](https://github.com/akash-v-i/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/AKASHCY046/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/akash-v-i/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
