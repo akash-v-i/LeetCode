@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AKASHCY046/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/akash-v-i/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/AKASHCY046/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AKASHCY046/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0043-multiply-strings) |
