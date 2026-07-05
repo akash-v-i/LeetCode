@@ -21,7 +21,7 @@ class Solution {
             int a=str.charAt(index)-'0';
             int b=str.charAt(index+1)-'0';
             int sum=(a*10)+b;
-            if(sum>=10 && sum<=26){
+            if(sum>=1 && sum<=26){
                 dp[index]+=find(str,index+2,dp);
             }
         }
