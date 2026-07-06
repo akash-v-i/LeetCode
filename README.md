@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/AKASHCY046/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/AKASHCY046/LeetCode/tree/master/1046-last-stone-weight) |
 | [1287-distance-between-bus-stops](https://github.com/AKASHCY046/LeetCode/tree/master/1287-distance-between-bus-stops) |
+| [1288-remove-covered-intervals](https://github.com/akash-v-i/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/AKASHCY046/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AKASHCY046/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/akash-v-i/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash-v-i/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/akash-v-i/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
