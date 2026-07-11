@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/akash-v-i/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akash-v-i/LeetCode/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AKASHCY046/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2685-count-the-number-of-complete-components](https://github.com/akash-v-i/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/akash-v-i/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/akash-v-i/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akash-v-i/LeetCode/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/akash-v-i/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -824,10 +826,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/akash-v-i/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/akash-v-i/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akash-v-i/LeetCode/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/akash-v-i/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/akash-v-i/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2685-count-the-number-of-complete-components](https://github.com/akash-v-i/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
