@@ -1,8 +1,25 @@
 class Solution {
     public String largestNumber(int[] nums) {
         StringBuilder st=new StringBuilder();
+        PriorityQueue<String>pq=new PriorityQueue<>((a,b)->{
+            return (b+a).compareTo(a+b);
+        });
 
-        String arr[]=new String[nums.length];
+        for(int x:nums){
+            pq.add(Integer.toString(x));
+        }
+
+        if(pq.peek().charAt(0)=='0') return "0";
+        while(!pq.isEmpty()){
+            st.append(pq.poll());
+        }
+        return st.toString();
+    }
+}
+
+
+/*
+String arr[]=new String[nums.length];
         for(int i=0;i<nums.length;i++){
             arr[i]=String.valueOf(nums[i]);
         }
@@ -15,5 +32,4 @@ class Solution {
             st.append(x);
         }
         return st.toString();
-    }
-}
+*/
