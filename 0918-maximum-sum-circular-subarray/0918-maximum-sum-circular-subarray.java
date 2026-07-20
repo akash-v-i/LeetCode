@@ -15,10 +15,9 @@ class Solution {
 
             minsum=Math.min(nums[i],minsum+nums[i]);
             min=Math.min(min,minsum);
-
         }
 
-        if(max<0) return max;
+        if(max<=0) return max;
 
         return Math.max(max,total-min);
     }
