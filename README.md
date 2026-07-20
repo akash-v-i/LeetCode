@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKASHCY046/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/akash-v-i/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AKASHCY046/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/AKASHCY046/LeetCode/tree/master/1046-last-stone-weight) |
 | [1287-distance-between-bus-stops](https://github.com/AKASHCY046/LeetCode/tree/master/1287-distance-between-bus-stops) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/AKASHCY046/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/akash-v-i/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akash-v-i/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/akash-v-i/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/AKASHCY046/LeetCode/tree/master/0661-image-smoother) |
 | [0931-minimum-falling-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0994-rotting-oranges](https://github.com/akash-v-i/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AKASHCY046/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/akash-v-i/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
