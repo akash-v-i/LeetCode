@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/AKASHCY046/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/AKASHCY046/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash-v-i/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/akash-v-i/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AKASHCY046/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2652-sum-multiples](https://github.com/AKASHCY046/LeetCode/tree/master/2652-sum-multiples) |
 | [2722-prime-in-diagonal](https://github.com/AKASHCY046/LeetCode/tree/master/2722-prime-in-diagonal) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AKASHCY046/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akash-v-i/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/akash-v-i/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/akash-v-i/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -870,4 +872,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/akash-v-i/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/akash-v-i/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
