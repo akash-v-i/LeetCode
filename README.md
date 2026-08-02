@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/akash-v-i/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/akash-v-i/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
+| [0877-stone-game](https://github.com/akash-v-i/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AKASHCY046/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/akash-v-i/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0504-base-7](https://github.com/AKASHCY046/LeetCode/tree/master/0504-base-7) |
+| [0877-stone-game](https://github.com/akash-v-i/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1048-clumsy-factorial](https://github.com/AKASHCY046/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/AKASHCY046/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/AKASHCY046/LeetCode/tree/master/1390-four-divisors) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akash-v-i/LeetCode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akash-v-i/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/akash-v-i/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0877-stone-game](https://github.com/akash-v-i/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/akash-v-i/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -884,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/akash-v-i/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/akash-v-i/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
