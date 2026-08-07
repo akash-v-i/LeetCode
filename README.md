@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AKASHCY046/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AKASHCY046/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AKASHCY046/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/akash-v-i/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AKASHCY046/LeetCode/tree/master/0055-jump-game) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akash-v-i/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AKASHCY046/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/akash-v-i/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/akash-v-i/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/AKASHCY046/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/akash-v-i/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -898,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akash-v-i/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/akash-v-i/LeetCode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
