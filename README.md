@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKASHCY046/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKASHCY046/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-time-based-key-value-store](https://github.com/akash-v-i/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AKASHCY046/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AKASHCY046/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/AKASHCY046/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AKASHCY046/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akash-v-i/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AKASHCY046/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/akash-v-i/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
