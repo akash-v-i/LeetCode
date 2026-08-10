@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/AKASHCY046/LeetCode/tree/master/2652-sum-multiples) |
 | [2722-prime-in-diagonal](https://github.com/AKASHCY046/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AKASHCY046/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akash-v-i/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AKASHCY046/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akash-v-i/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AKASHCY046/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/akash-v-i/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akash-v-i/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
