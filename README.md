@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/akash-v-i/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/AKASHCY046/LeetCode/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-v-i/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AKASHCY046/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-cherry-pickup-ii](https://github.com/akash-v-i/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKASHCY046/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AKASHCY046/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-v-i/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/AKASHCY046/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AKASHCY046/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akash-v-i/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AKASHCY046/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/akash-v-i/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-v-i/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
