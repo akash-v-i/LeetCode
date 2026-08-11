@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 | [0877-stone-game](https://github.com/akash-v-i/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0904-fruit-into-baskets](https://github.com/akash-v-i/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0904-fruit-into-baskets](https://github.com/akash-v-i/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKASHCY046/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-time-based-key-value-store](https://github.com/akash-v-i/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AKASHCY046/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/akash-v-i/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/akash-v-i/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-v-i/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-v-i/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
