@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/akash-v-i/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AKASHCY046/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1004-max-consecutive-ones-iii](https://github.com/akash-v-i/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/AKASHCY046/LeetCode/tree/master/1046-last-stone-weight) |
 | [1287-distance-between-bus-stops](https://github.com/AKASHCY046/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1288-remove-covered-intervals](https://github.com/akash-v-i/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/akash-v-i/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/akash-v-i/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/akash-v-i/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/akash-v-i/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akash-v-i/LeetCode/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
 | [2540-minimum-common-value](https://github.com/akash-v-i/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AKASHCY046/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/akash-v-i/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-v-i/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/AKASHCY046/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/AKASHCY046/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AKASHCY046/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/akash-v-i/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/akash-v-i/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-v-i/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
