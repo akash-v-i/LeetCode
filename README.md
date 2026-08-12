@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/akash-v-i/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/akash-v-i/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2722-prime-in-diagonal](https://github.com/AKASHCY046/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akash-v-i/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akash-v-i/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/AKASHCY046/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/AKASHCY046/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2540-minimum-common-value](https://github.com/akash-v-i/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akash-v-i/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-v-i/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akash-v-i/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AKASHCY046/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-v-i/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-v-i/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akash-v-i/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
