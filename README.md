@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/akash-v-i/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/AKASHCY046/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/akash-v-i/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/akash-v-i/LeetCode/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akash-v-i/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/akash-v-i/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Tree
