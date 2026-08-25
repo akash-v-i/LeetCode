@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/AKASHCY046/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/akash-v-i/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/akash-v-i/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKASHCY046/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKASHCY046/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/akash-v-i/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AKASHCY046/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/AKASHCY046/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0946-validate-stack-sequences](https://github.com/akash-v-i/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AKASHCY046/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1048-clumsy-factorial](https://github.com/AKASHCY046/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AKASHCY046/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/akash-v-i/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/akash-v-i/LeetCode/tree/main/0901-online-stock-span/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/akash-v-i/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1048-clumsy-factorial](https://github.com/AKASHCY046/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AKASHCY046/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AKASHCY046/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
