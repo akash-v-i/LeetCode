@@ -5,6 +5,7 @@ class Solution {
         queen(board,0,al);
         return al;
     }
+
     public static void queen(boolean board[][],int r,List<List<String>>al){
         if(r==board.length){
             al.add(display(board));
