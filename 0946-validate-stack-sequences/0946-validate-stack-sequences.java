@@ -7,10 +7,9 @@ class Solution {
             st.push(pushed[i]);
             while(!st.isEmpty() && index<n && st.peek()==popped[index]){
                 index++;
-                System.out.println(st.pop());
+                st.pop();
             }
         }
-        System.out.print(st.size());
         return st.isEmpty();
     }
 }
