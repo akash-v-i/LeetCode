@@ -1,8 +1,7 @@
 class Solution {
     public List<List<String>> partition(String s) {
         List<List<String>>res=new ArrayList<>();
-        List<String>al=new ArrayList<>();
-        find(s,0,al,res);
+        find(s,0,new ArrayList<>(),res);
         return res;
     }
 
@@ -19,15 +18,18 @@ class Solution {
                 al.remove(al.size()-1);
             }
         }
+
     }
+
     public boolean isPal(String str){
-        int st=0;
+        int start=0;
         int end=str.length()-1;
-        while(st<end){
-            if(str.charAt(st)!=str.charAt(end)){
+
+        while(start<=end){
+            if(str.charAt(start)!=str.charAt(end)){
                 return false;
             }
-            st++;
+            start++;
             end--;
         }
         return true;
