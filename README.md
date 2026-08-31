@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AKASHCY046/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AKASHCY046/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akash-v-i/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/akash-v-i/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/akash-v-i/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/AKASHCY046/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/akash-v-i/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
