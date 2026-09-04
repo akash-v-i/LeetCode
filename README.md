@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akash-v-i/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/akash-v-i/LeetCode/tree/main/0648-replace-words/) | Medium |
 | [0661-image-smoother](https://github.com/AKASHCY046/LeetCode/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/akash-v-i/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akash-v-i/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AKASHCY046/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/akash-v-i/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akash-v-i/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akash-v-i/LeetCode/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/akash-v-i/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AKASHCY046/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/akash-v-i/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/akash-v-i/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akash-v-i/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/AKASHCY046/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/AKASHCY046/LeetCode/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/akash-v-i/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/akash-v-i/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AKASHCY046/LeetCode/tree/master/0999-available-captures-for-rook) |
@@ -914,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/akash-v-i/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/akash-v-i/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akash-v-i/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/akash-v-i/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akash-v-i/LeetCode/tree/main/1970-last-day-where-you-can-still-cross/) | Hard |
