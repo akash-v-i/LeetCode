@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AKASHCY046/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AKASHCY046/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AKASHCY046/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/akash-v-i/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akash-v-i/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/akash-v-i/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
