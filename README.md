@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/akash-v-i/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AKASHCY046/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akash-v-i/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/akash-v-i/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/akash-v-i/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/akash-v-i/LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AKASHCY046/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akash-v-i/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/AKASHCY046/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash-v-i/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/akash-v-i/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AKASHCY046/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AKASHCY046/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/akash-v-i/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/akash-v-i/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0504-base-7](https://github.com/AKASHCY046/LeetCode/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/akash-v-i/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1048-clumsy-factorial](https://github.com/AKASHCY046/LeetCode/tree/master/1048-clumsy-factorial) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/akash-v-i/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/AKASHCY046/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKASHCY046/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akash-v-i/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0706-design-hashmap) |
 | [0817-design-hashmap](https://github.com/AKASHCY046/LeetCode/tree/master/0817-design-hashmap) |
@@ -983,4 +987,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akash-v-i/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/akash-v-i/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
