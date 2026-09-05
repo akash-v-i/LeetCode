@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/akash-v-i/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/akash-v-i/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/akash-v-i/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akash-v-i/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0494-target-sum](https://github.com/akash-v-i/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AKASHCY046/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AKASHCY046/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/akash-v-i/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/akash-v-i/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akash-v-i/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0645-set-mismatch](https://github.com/akash-v-i/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [0912-sort-an-array](https://github.com/AKASHCY046/LeetCode/tree/master/0912-sort-an-array) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AKASHCY046/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/AKASHCY046/LeetCode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/akash-v-i/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akash-v-i/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akash-v-i/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/AKASHCY046/LeetCode/tree/master/1448-maximum-69-number) |
