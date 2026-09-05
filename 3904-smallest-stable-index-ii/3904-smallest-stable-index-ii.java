@@ -17,7 +17,7 @@ class Solution {
                     continue;
                 ans = max - pre[i];
 
-                index = (index==-1)?i:Math.min(i,index);
+                index = (index == -1) ? i : Math.min(i, index);
             }
         }
         return index;
