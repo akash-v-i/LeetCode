@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AKASHCY046/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/akash-v-i/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AKASHCY046/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/akash-v-i/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/AKASHCY046/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AKASHCY046/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/akash-v-i/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AKASHCY046/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/AKASHCY046/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AKASHCY046/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/akash-v-i/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/AKASHCY046/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/AKASHCY046/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/AKASHCY046/LeetCode/tree/master/0705-design-hashset) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/akash-v-i/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/AKASHCY046/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AKASHCY046/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/akash-v-i/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -997,4 +1000,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/akash-v-i/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/akash-v-i/LeetCode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
