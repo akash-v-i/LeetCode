@@ -14,27 +14,28 @@
  * }
  */
 class Solution {
-    int co = 0;
-
+    int ans=0;
     public int averageOfSubtree(TreeNode root) {
         find(root);
-        return co;
+        return ans;
     }
 
-    public int[] find(TreeNode root) {
-        if (root == null)
-            return new int[] { 0, 0 };
+    public void find(TreeNode root){
+        if(root==null) return;
+        find(root.left);
+        find(root.right);
+        int sum=findSum(root);
+        int node=findNodes(root); 
+        if(root.val==sum/node) ans++;
+    }
 
-        int left[] = find(root.left);
-        int right[] = find(root.right);
+    public int findSum(TreeNode root){
+        if(root==null) return 0;
+        return root.val+findSum(root.left)+findSum(root.right);
+    }
 
-        int sum = left[0] + right[0] + root.val;
-        int count = left[1] + right[1] + 1;
-
-        if (sum / count == root.val) {
-            co++;
-        }
-
-        return new int[] { sum, count };
+    public int findNodes(TreeNode root){
+        if(root==null) return 0;
+        return 1+findNodes(root.left)+findNodes(root.right);
     }
 }
