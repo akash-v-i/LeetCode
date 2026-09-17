@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AKASHCY046/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akash-v-i/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1528-shuffle-string](https://github.com/AKASHCY046/LeetCode/tree/master/1528-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akash-v-i/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKASHCY046/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AKASHCY046/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/AKASHCY046/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akash-v-i/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0778-reorganize-string](https://github.com/AKASHCY046/LeetCode/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/AKASHCY046/LeetCode/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akash-v-i/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/AKASHCY046/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/akash-v-i/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/akash-v-i/LeetCode/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
